@@ -1,8 +1,8 @@
-# Pedago Agent Instructions
+# Pendago Agent Instructions
 
 ## Product Phase
 
-Pedago is currently in System Architecture & Technical Specification phase.
+Pendago is currently in System Architecture & Technical Specification phase.
 
 Do not begin framework or implementation setup until architecture decisions
 have been explicitly approved.
